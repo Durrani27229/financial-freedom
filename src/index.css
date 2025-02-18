@@ -1,0 +1,20 @@
+@media only screen and (max-width: 450px) {
+    .form{
+        display: flex;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .form button{
+        width: 100% !important;
+    }
+    .subs-content{
+        display: flex;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .subscribe{
+        height: 900px !important;
+    }
+}
