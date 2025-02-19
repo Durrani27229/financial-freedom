@@ -53,7 +53,7 @@ const Community = () => {
         <Row>
             <div className='service'>
                 <p className='text-light-grey'>⚡️ Powered by:</p>
-                <img src="../../images/service.png" alt="service" />
+                <img src="service.png" alt="service" />
             </div>
         </Row>
     </Container>

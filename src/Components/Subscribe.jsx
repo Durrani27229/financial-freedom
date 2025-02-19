@@ -28,14 +28,14 @@ const Subscribe = () => {
                     </div>
                     <div className='d-flex gap-5 subs-content'>
                     <div className='d-flex flex-column justify-content-center align-items-center subs-img'>
-                        <img src="../../images/Person.png" alt="" />
+                        <img src="Person.png" alt="" />
                         <h2 className='text-white'>Dan Pastori</h2>
                         <div className='text-white fs-5 d-flex gap-3'>
                         <BsTwitterX /><FaGithub />
                         </div>
                     </div>
                     <div className='d-flex flex-column justify-content-center align-items-center subs-img'>
-                        <img src="../../images/Person.png" alt="" />
+                        <img src="Person.png" alt="" />
                         <h2 className='text-white'>Dan Pastori</h2>
                         <div className='text-white fs-5 d-flex gap-3'>
                         <BsTwitterX /><FaGithub />

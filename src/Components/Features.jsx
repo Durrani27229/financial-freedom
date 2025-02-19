@@ -6,17 +6,17 @@ import '../App.css'
 const Features = () => {
 
     const featuresContent = [{
-        image: '../../images/feature_icon1.png',
+        image: 'feature_icon1.png',
         title: 'Compatible with any bank',
         description: 'If your bank supports exporting a CSV file, Financial Freedom supports it.'
     },
     {
-        image: '../../images/feature_icon2.png',
+        image: 'feature_icon2.png',
         title: 'Automated Sync (coming soon)',
         description: 'Use API services like Plaid or Finicity for automated account data synchronization. For those who want ultimate privacy, synchronize your account with our decentralized alternative to Plaid & Finicity.'
     },
     {
-        image: '../../images/feature_icon3.png',
+        image: 'feature_icon3.png',
         title: 'Self-host anywhere',
         description: 'Financial Freedom is designed to run on any host as long as it can run Docker. Choose from AWS to a Raspberry Pi running in your basement.'
     }]

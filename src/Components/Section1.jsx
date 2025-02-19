@@ -37,7 +37,7 @@ function Section1() {
      </div>
 
      <div className='db mt-5'>
-        <img src="../../images/db.png" alt="dashboard" className='img-fluid'/>
+        <img src="db.png" alt="dashboard" className='img-fluid'/>
      </div>
      </Container>
     </>

@@ -17,7 +17,7 @@ function NavScrollExample() {
         {/* <Container> */}
         <Navbar.Brand href="#home">
             <img
-              src="../../images/logo.png"
+              src="Logo.png"
               width="102"
               height="32"
               className="d-inline-block align-top"
